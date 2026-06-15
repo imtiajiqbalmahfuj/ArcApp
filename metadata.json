@@ -1,0 +1,6 @@
+{
+  "name": "Arc Clone",
+  "description": "System-wide AI Assistant overlay sidebar that reads screen text, processes it with Gemini, and runs custom prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
